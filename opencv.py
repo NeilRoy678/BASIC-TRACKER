@@ -1,7 +1,5 @@
 
 import cv2
-
-from matplotlib.animation import FuncAnimation
 def video():
     cap = cv2.VideoCapture(0)
     ret,frame1 = cap.read()
