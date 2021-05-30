@@ -1,6 +1,5 @@
 
 import cv2
-from matplotlib import pyplot as plt
 
 from matplotlib.animation import FuncAnimation
 def video():
